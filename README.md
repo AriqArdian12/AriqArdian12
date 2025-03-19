@@ -18,7 +18,7 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 ## 📚 Currently Learn  
 
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=Python,c,js,linux,ghidra,php" />  
+  <img src="https://skillicons.dev/icons?i=Python,c,js,linux,php" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NSA_Ghidra_Logo.svg/120px-NSA_Ghidra_Logo.svg.png" width="50">
 </p>
 
