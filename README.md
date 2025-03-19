@@ -18,16 +18,10 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 ## 📚 Currently Learn  
 
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=Python,c,js,linux,ghidra" />  
+  <img src="https://skillicons.dev/icons?i=Python,c,js,linux,ghidra,php" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NSA_Ghidra_Logo.svg/120px-NSA_Ghidra_Logo.svg.png" width="50">
 </p>
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NSA_Ghidra_Logo.svg/120px-NSA_Ghidra_Logo.svg.png" width="100">
 
 ## 📊 My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriqArdian12&show_icons=true&theme=tokyonight)
