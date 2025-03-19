@@ -8,10 +8,10 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 - 🎯 I'm also a **CTF player and Cyber Security Enthusiast**
 - 💻 And I am interested in CTF challenges, specifically in reverse engineering and cryptography. 
 
-<p align="right">
+
 ## 🛠️ Language and Tools  
 
-<p align="right">  
+<p align="left">   
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,linux,github" />  
 
 
