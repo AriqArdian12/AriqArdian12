@@ -11,7 +11,7 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 
 ## 🛠️ Language and Tools  
 
-<p align="left">  
+<p align="right">  
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,linux,github" />  
 
 
@@ -28,6 +28,8 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 
 ## 🔥 Contribute  
 ....................
-[![GitHub Repositories](https://img.shields.io/badge/My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/AriqArdian12?tab=repositories)
+[![GitHub Repositories]<p align="left">  
+  <img src="https://skillicons.dev/icons?i=github" />  
+
 
 
