@@ -6,7 +6,7 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 
 - 🌱 I'm currently learning **PHP, Linux, and Python**  
 - 🎯 I'm also a **CTF player and Cyber Security Enthusiast**
-- 💻 And I am interested in CTF challenges, specifically in reverse engineering and cryptography. 
+- 💻 And I am interested in CTF challenges, specifically in **Reverse Engineering and Cryptography**. 
 
 
 ## 🛠️ Language and Tools  
