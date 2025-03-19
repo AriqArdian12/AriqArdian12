@@ -28,8 +28,7 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 
 ## 🔥 Contribute  
 ....................
-[![GitHub Repositories]<p align="left">  
-  <img src="https://skillicons.dev/icons?i=github" />  
+[![GitHub Repositories](https://github.com/AriqArdian12?tab=repositories) 
 
 
 
