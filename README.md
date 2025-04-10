@@ -12,13 +12,13 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 ## 🛠️ Language and Tools  
 
 <p align="left">   
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,linux,github" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,linux,github" />  
 
 
 ## 📚 Currently Learn  
 
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=python,c,js,linux,php" />  
+  <img src="https://skillicons.dev/icons?i=python,js,linux,php" />  
 
 
 ## 📊 My Stats :
