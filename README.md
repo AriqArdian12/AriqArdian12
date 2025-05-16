@@ -26,7 +26,7 @@ I'm **Athalariiq Fildzahhanan Ardian**, a Computer Science student at **Brawijay
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriqArdian12&layout=compact&theme=tokyonight)
 
-## 🔥 Contribute  
+## 🔥 Contribute Repo 
 ....................
 [![GitHub Repositories](https://github.com/AriqArdian12?tab=repositories) 
 
